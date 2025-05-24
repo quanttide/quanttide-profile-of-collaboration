@@ -5,7 +5,7 @@ parts:
     chapters:
       - file: retrospectives/README.md
         sections:
-          - file: retrospectives/founder/README.md
+          - file: retrospectives/founder/README.md 
             sections:
               - file: retrospectives/founder/2025-week21.md 
         
