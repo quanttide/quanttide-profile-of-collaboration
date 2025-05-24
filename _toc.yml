@@ -1,9 +1,11 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 复盘
+  - caption: 统筹
     chapters:
       - file: retrospectives/README.md
         sections:
-          - file: retrospectives/founder/2025-week21.md 
+          - file: retrospectives/founder/README.md
+            sections:
+              - file: retrospectives/founder/2025-week21.md 
         
